@@ -1,0 +1,25 @@
+Threats and vulnerabilities in embedded systems
+
+cap intro
+
+embedded system def intro to be written
+
+The industrial trend
+shows that they are the driving force in many application
+domains that build smart or intelligent systems, including areas
+such as automotive electronics, avionics, consumer electronics,
+railways, telecommunications, and healthcare [3]
+
+Security is an important issue because of the roles of
+embedded systems in many mission and safety-critical systems. Attacks on cyber systems are proved to cause physical
+damages [4]. However, comparing to conventional IT systems,
+security of embedded systems is no better due to poor security
+design and implementation and the difficulty of continuous
+patching [5]. Although many approaches have been proposed
+in the past to secure embedded systems [6], [7], various facts
+such as deployment scale, resource limitations, the difficulty
+of physical protection, and cost consideration all make it very
+challenging to secure them [8], particularly for devices with
+remote control, maintenance and operation functions
+
+cap type of threats/attacks
