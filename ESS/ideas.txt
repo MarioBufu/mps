@@ -23,3 +23,6 @@ challenging to secure them [8], particularly for devices with
 remote control, maintenance and operation functions
 
 cap type of threats/attacks
+enumerate types - papp2015.pdf
+solutions - E2S.pdf
+design flwas - AmiEs2011.pdf
